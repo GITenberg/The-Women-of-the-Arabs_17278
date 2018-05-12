@@ -1,0 +1,39 @@
+_repo: The-Women-of-the-Arabs_17278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jessup, Henry Harris
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '7269'
+    url: http://www.gutenberg.org/2009/agents/7269
+  editors:
+  - agent_name: Robinson, Charles S. (Charles Seymour)
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '7270'
+    url: http://www.gutenberg.org/2009/agents/7270
+  - agent_name: Riley, Isaac
+    birthdate: 1835
+    deathdate: 1878
+    gutenberg_agent_id: '7271'
+    url: http://www.gutenberg.org/2009/agents/7271
+description: ''
+gutenberg_issued: '2005-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17278'
+  lccn: 09008700
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Syria'
+- !lcc 'HQ'
+- !lcsh 'Arabs'
+title: The Women of the Arabs
+url: http://www.gutenberg.org/ebooks/17278
